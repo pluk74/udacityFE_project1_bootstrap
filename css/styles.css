@@ -1,0 +1,30 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-size: large;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+#logo {
+	width: 80px;
+	height: 80px;
+	margin-top: 20px;
+}
+
+#title-line {
+	height: 4px;
+	background-color: #7d97ad;
+	color: #7d97ad;
+	
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.text-heavy {
+	font-weight: 700;
+}
