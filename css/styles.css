@@ -28,3 +28,23 @@ h1 {
 .text-heavy {
 	font-weight: 700;
 }
+
+a:link {
+    color: #2d3c49;
+}
+
+/* visited link */
+a:visited {
+    color: #2d3c49;
+}
+
+/* mouse over link */
+a:hover {
+    color: #2d3c49;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #2d3c49;
+}
