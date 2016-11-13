@@ -1,5 +1,5 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #2d3c49;
 	font-size: large;
 }
@@ -47,4 +47,13 @@ a:hover {
 /* selected link */
 a:active {
     color: #2d3c49;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+footer p {
+	font-size: 10px;
+	font-style: italic;
 }
